@@ -10,4 +10,4 @@
 	(try (improve guess))))
   (try 1)
 
-(sqrt 2)
+(display (sqrt 2))
